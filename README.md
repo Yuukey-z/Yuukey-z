@@ -18,7 +18,7 @@
   align-items: center;
   ">
   <!-- Icon bar container: dark rounded background, blue top/bottom border, centered icons -->
-  <div style="padding: 10px 14px; border-top: 3px solid #2ea3ff; border-bottom: 3px solid #2ea3ff; background: #071018; border-radius:8px; display:flex; gap:14px; align-items:center; justify-content:center;">
+  <div style="padding: 10px 14px; border-top: 3px solid #2ea3ff; border-bottom: 3px solid #2ea3ff; background: #071018; border-radius:8px; display:center; gap:14px; align-items:center; justify-content:center;">
     <img src="https://skillicons.dev/icons?i=py" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="python logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="photoshop logo" />
     <img src="https://skillicons.dev/icons?i=js" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="javascript logo" />
