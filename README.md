@@ -22,8 +22,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="github logo" />
     <img src="https://skillicons.dev/icons?i=css" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="css3 logo" />
     <img src="https://skillicons.dev/icons?i=cpp" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="cplusplus logo" />
-      al.svg" style="background:#0b2230;padding:12px;border-radius:12px;height:64px;width:64px;object-fit:contain" alt="vscode logo" />
-  </div>
 </div>
 
 ###
